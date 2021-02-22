@@ -6,7 +6,7 @@ namespace TesteGitFinal {
             Console.WriteLine("Good Afternoon!");
             Console.WriteLine("Como vc está agora");
             Console.WriteLine("Tenha um otimo dia");
-            Console.WriteLine("Não se esqueça de passar no mercado");
+            Console.WriteLine("Não se esqueça de passar na padaria");
             Console.ReadLine();
         }
     }
