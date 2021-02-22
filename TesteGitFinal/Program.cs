@@ -5,6 +5,7 @@ namespace TesteGitFinal {
         static void Main(string[] args) {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Good Afternoon!");
+            Console.WriteLine("Como vc está agora");
             Console.ReadLine();
         }
     }
